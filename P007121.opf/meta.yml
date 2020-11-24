@@ -3,5 +3,18 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W1KG4458
   title: རྡོ་རྗེ་ནག་པོ་ཕྱག་བཞི་པའི་ཕྱི་ནང་གསང་གསུམ་གྱི་འཁོར་ལོའི་བྲི་ཐབས་གསལ་བྱེད་བླ་མའི་ཕྱག་ལེན་
-  volume: ''
+  volume:
+    2d723ffd19d34bbcabc7690c13f54cbf:
+      image_group_id: I1KG4580
+      title: Volume 1 of rdo rje nag po phyag bzhi pa'i phyi nang gsang gsum gyi 'khor
+        lo'i bri thabs gsal byed bla ma'i phyag len
+      volume_number: 1
+      total_pages: 62
   author: ''
+ebook_metadata:
+  title: རྡོ་རྗེ་ནག་པོ་ཕྱག་བཞི་པའི་ཕྱི་ནང་གསང་གསུམ་གྱི་འཁོར་ལོའི་བྲི་ཐབས་གསལ་བྱེད་བླ་མའི་ཕྱག་ལེན་
+  author: ''
+  sku: P007121
+  cover: cover.jpg
+  layers:
+  - pagination
