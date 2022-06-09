@@ -1,18 +1,28 @@
-id: P007121
+id: I646A9E6D
+source: https://library.bdrc.io
+source_file: null
 initial_creation_type: ocr
-created_at: 31/03/2020
-last_modified_at: 2021-12-17 12:43:04.806482
+imported: '2020-03-31T20:37:36+00:00'
+last_modified: '2022-06-09T06:12:06.778806+00:00'
+parser: https://github.com/OpenPecha-dev/openpecha-toolkit/blob/231bba39dd1ba393320de82d4d08a604aabe80fc/openpecha/formatters/google_orc.py
 source_metadata:
   id: bdr:W1KG4458
   title: རྡོ་རྗེ་ནག་པོ་ཕྱག་བཞི་པའི་ཕྱི་ནང་གསང་གསུམ་གྱི་འཁོར་ལོའི་བྲི་ཐབས་གསལ་བྱེད་བླ་མའི་ཕྱག་ལེན་
   author: ''
-  volumes:
-    2d723ffd19d34bbcabc7690c13f54cbf:
+  access: http://purl.bdrc.io/admindata/AccessOpen
+  restrictedInChina: false
+  base:
+    22A1:
       image_group_id: I1KG4580
       title: Volume 1 of rdo rje nag po phyag bzhi pa'i phyi nang gsang gsum gyi 'khor
         lo'i bri thabs gsal byed bla ma'i phyag len
-      volume_number: 1
       total_pages: 62
-      base_file: v001.txt
-  access: http://purl.bdrc.io/admindata/AccessOpen
-  restrictedInChina: false
+      order: 1
+      base_file: 22A1.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
